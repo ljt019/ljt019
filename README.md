@@ -1,3 +1,3 @@
 <div align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljt019&layout=compact&langs_count=10&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&theme=radical" alt="Top Languages" />
 </div>
